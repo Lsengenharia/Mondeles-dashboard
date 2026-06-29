@@ -47,8 +47,8 @@ header {
 .logo-placeholder {
     width: 60px;
     height: 60px;
-    background-color: white;
-    color: var(--primary-color);
+    background-color: #1a227ed0;
+    color: #fff;
     border-radius: 50%;
     display: flex;
     justify-content: center;
